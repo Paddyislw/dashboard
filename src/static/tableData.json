@@ -1,0 +1,378 @@
+[
+  {
+    "customer_name": "Jane Cooper",
+    "company": "Microsoft",
+    "phone_number": "(225) 555-0118",
+    "email": "jane@microsoft.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Floyd Miles",
+    "company": "Yahoo",
+    "phone_number": "(205) 555-0100",
+    "email": "floyd@yahoo.com",
+    "country": "Kiribati",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Ronald Richards",
+    "company": "Adobe",
+    "phone_number": "(302) 555-0107",
+    "email": "ronald@adobe.com",
+    "country": "Israel",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Marvin McKinney",
+    "company": "Tesla",
+    "phone_number": "(252) 555-0126",
+    "email": "marvin@tesla.com",
+    "country": "Iran",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Jerome Bell",
+    "company": "Google",
+    "phone_number": "(629) 555-0129",
+    "email": "jerome@google.com",
+    "country": "Réunion",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Kathryn Murphy",
+    "company": "Microsoft",
+    "phone_number": "(406) 555-0120",
+    "email": "kathryn@microsoft.com",
+    "country": "Curaçao",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Thomas Anderson",
+    "company": "Oracle",
+    "phone_number": "(123) 555-0101",
+    "email": "thomas@oracle.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Emily Thompson",
+    "company": "Apple",
+    "phone_number": "(456) 555-0110",
+    "email": "emily@apple.com",
+    "country": "United Kingdom",
+    "status": "Active"
+  },
+  {
+    "customer_name": "David Lee",
+    "company": "Samsung",
+    "phone_number": "(789) 555-0130",
+    "email": "david@samsung.com",
+    "country": "South Korea",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Sophia Hernandez",
+    "company": "Amazon",
+    "phone_number": "(246) 555-0150",
+    "email": "sophia@amazon.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Michael Chen",
+    "company": "Facebook",
+    "phone_number": "(579) 555-0140",
+    "email": "michael@facebook.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Jennifer Wilson",
+    "company": "IBM",
+    "phone_number": "(135) 555-0135",
+    "email": "jennifer@ibm.com",
+    "country": "Canada",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Alexander Garcia",
+    "company": "Sony",
+    "phone_number": "(468) 555-0145",
+    "email": "alexander@sony.com",
+    "country": "Japan",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Olivia Scott",
+    "company": "Netflix",
+    "phone_number": "(792) 555-0175",
+    "email": "olivia@netflix.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Daniel Green",
+    "company": "Intel",
+    "phone_number": "(246) 555-0165",
+    "email": "daniel@intel.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Sophie Adams",
+    "company": "Adobe",
+    "phone_number": "(357) 555-0185",
+    "email": "sophie@adobe.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Matthew Taylor",
+    "company": "Microsoft",
+    "phone_number": "(680) 555-0195",
+    "email": "matthew@microsoft.com",
+    "country": "Australia",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Isabella Cooper",
+    "company": "Google",
+    "phone_number": "(468) 555-0205",
+    "email": "isabella@google.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Joseph Martinez",
+    "company": "Tesla",
+    "phone_number": "(246) 555-0215",
+    "email": "joseph@tesla.com",
+    "country": "Mexico",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Ava Mitchell",
+    "company": "Amazon",
+    "phone_number": "(579) 555-0225",
+    "email": "ava@amazon.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "James Young",
+    "company": "Facebook",
+    "phone_number": "(135) 555-0235",
+    "email": "james@facebook.com",
+    "country": "United Kingdom",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Emily Johnson",
+    "company": "Apple",
+    "phone_number": "(579) 555-0245",
+    "email": "emily@apple.com",
+    "country": "Canada",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Oliver Davis",
+    "company": "IBM",
+    "phone_number": "(246) 555-0255",
+    "email": "oliver@ibm.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Charlotte Anderson",
+    "company": "Microsoft",
+    "phone_number": "(792) 555-0265",
+    "email": "charlotte@microsoft.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Mason Smith",
+    "company": "Google",
+    "phone_number": "(468) 555-0275",
+    "email": "mason@google.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Amelia Johnson",
+    "company": "Tesla",
+    "phone_number": "(246) 555-0285",
+    "email": "amelia@tesla.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Liam Davis",
+    "company": "Amazon",
+    "phone_number": "(579) 555-0295",
+    "email": "liam@amazon.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Sophia Martinez",
+    "company": "Facebook",
+    "phone_number": "(135) 555-0305",
+    "email": "sophia@facebook.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Oliver Thompson",
+    "company": "Apple",
+    "phone_number": "(579) 555-0315",
+    "email": "oliver@apple.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Amelia Harris",
+    "company": "IBM",
+    "phone_number": "(246) 555-0325",
+    "email": "amelia@ibm.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Lucas Wilson",
+    "company": "Microsoft",
+    "phone_number": "(792) 555-0335",
+    "email": "lucas@microsoft.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Mia Garcia",
+    "company": "Google",
+    "phone_number": "(468) 555-0345",
+    "email": "mia@google.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Emma Davis",
+    "company": "Tesla",
+    "phone_number": "(246) 555-0355",
+    "email": "emma@tesla.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Benjamin Anderson",
+    "company": "Amazon",
+    "phone_number": "(579) 555-0365",
+    "email": "benjamin@amazon.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Abigail Smith",
+    "company": "Facebook",
+    "phone_number": "(135) 555-0375",
+    "email": "abigail@facebook.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "James Mitchell",
+    "company": "Apple",
+    "phone_number": "(579) 555-0385",
+    "email": "james@apple.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Lucas Clark",
+    "company": "IBM",
+    "phone_number": "(246) 555-0395",
+    "email": "lucas@ibm.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Emma Rodriguez",
+    "company": "Microsoft",
+    "phone_number": "(792) 555-0405",
+    "email": "emma@microsoft.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Liam Wilson",
+    "company": "Google",
+    "phone_number": "(468) 555-0415",
+    "email": "liam@google.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Sophia Lee",
+    "company": "Tesla",
+    "phone_number": "(246) 555-0425",
+    "email": "sophia@tesla.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Oliver Anderson",
+    "company": "Amazon",
+    "phone_number": "(579) 555-0435",
+    "email": "oliver@amazon.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Isabella Smith",
+    "company": "Facebook",
+    "phone_number": "(135) 555-0445",
+    "email": "isabella@facebook.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Mia Mitchell",
+    "company": "Apple",
+    "phone_number": "(579) 555-0455",
+    "email": "mia@apple.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Ava Clark",
+    "company": "IBM",
+    "phone_number": "(246) 555-0465",
+    "email": "ava@ibm.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "Noah Rodriguez",
+    "company": "Microsoft",
+    "phone_number": "(792) 555-0475",
+    "email": "noah@microsoft.com",
+    "country": "United States",
+    "status": "Active"
+  },
+  {
+    "customer_name": "William Wilson",
+    "company": "Google",
+    "phone_number": "(468) 555-0485",
+    "email": "william@google.com",
+    "country": "United States",
+    "status": "Inactive"
+  },
+  {
+    "customer_name": "Sophia Harris",
+    "company": "Tesla",
+    "phone_number": "(246) 555-0495",
+    "email": "sophia@tesla.com",
+    "country": "United States",
+    "status": "Active"
+  }
+]
